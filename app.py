@@ -254,7 +254,7 @@ if uploaded_file:
         st.markdown("""
 - **Impacto direto da alíquota:**  
   O ISS está fixado em **3% sobre a receita**.  
-  O ICMS tem **19%**, mas aplicado sobre uma base reduzida (~36,8% da receita).  
+  O ICMS tem **19%**, mas aplicado sobre uma base reduzida (~36,84% da receita).  
   Isso significa que nem sempre o ICMS é 6x maior que o ISS, pois depende da redução da base de cálculo.
 
 - **Comparação empresa a empresa:**  
