@@ -275,7 +275,7 @@ if uploaded_file:
 
     ➡️ Se o crédito fosse aproveitado, o aumento da carga tributária seria R$ xxxxxxxxxx menor, refletindo diretamente margem de lucro.
 
-    Por outro lado as empresas listadas a baixo sofreram um pouco mais a mudança devido ao credito de ICMS ser menor que os débitos.
+    Por outro lado as empresas listadas a baixo enfrentarão um aumento consideravel com a mudança devido ao aproveitamento dos créditos de ICMS ser menor que os débitos.
     
            
   DESTACAR QUAIS EMPRESAS TEM POUCO APROVEITAMENTO DE CREDITO: FIORI, JARDINS ACQUA PARK, SPLASH?           
