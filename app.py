@@ -273,6 +273,8 @@ if uploaded_file:
     - A Empresa VILLAS nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de: R$ 29.889,72
     - A Empresa EXCLUSIVE nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de: xxxxxxxxx
 
+    ➡️ Se o crédito fosse aproveitado, o aumento da carga tributária seria R$ xxxxxxxxxx menor, refletindo diretamente margem de lucro.
+
     Por outro lado as empresas listadas a baixo sofreram um pouco mais a mudança devido ao credito de ICMS ser menor que os débitos, portando a mudança
     vai aferar consideravelmente.
            
