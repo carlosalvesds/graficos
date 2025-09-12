@@ -267,9 +267,15 @@ if uploaded_file:
 
 - **Comparação direta ISS x ICMS:**  
   A diferença absoluta (**ICMS – ISS**) e a diferença percentual (**% de aumento da carga tributária**) para cada empresa, serviço ou mês mostram claramente quem vai pagar mais e quanto mais.
-                    
-  DESTACAR QUAIS EMPRESAS NÃO ESTAMOS APROVEITANDO TODOS OS CRÉDITOS: EXCLUSIVE, VILLAS...
-                    
+    
+    Mas temos que considerar as seguintes observações; 
+
+    - A Empresa VILLAS nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de: R$ 29.889,72
+    - A Empresa EXCLUSIVE nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de: xxxxxxxxx
+
+    Por outro lado as empresas listadas a baixo sofreram um pouco mais a mudança devido ao credito de ICMS ser menor que os débitos, portando a mudança
+    vai aferar consideravelmente.
+           
   DESTACAR QUAIS EMPRESAS TEM POUCO APROVEITAMENTO DE CREDITO: FIORI, JARDINS ACQUA PARK, SPLASH?           
                     
 
