@@ -277,10 +277,7 @@ if uploaded_file:
 
     Por outro lado as empresas listadas a baixo enfrentarão um aumento consideravel com a mudança devido ao aproveitamento dos créditos de ICMS serem muito baixo.
 
-    Fiori
-    
-           
-  DESTACAR QUAIS EMPRESAS TEM POUCO APROVEITAMENTO DE CREDITO: FIORI, JARDINS ACQUA PARK, SPLASH?           
+    Fiori, Jardins Acqua Park, Hotel Roma, Resort, Piazza e Spazzio e Roma Empreendimentos Matriz e Filial    
                     
 
 - **Quem será mais afetado?**  
