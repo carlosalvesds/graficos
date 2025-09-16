@@ -270,12 +270,14 @@ if uploaded_file:
     
     Mas temos que considerar as seguintes observações; 
 
-    - A Empresa VILLAS nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de: R$ 29.889,72
-    - A Empresa EXCLUSIVE nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de: xxxxxxxxx
+    - A Empresa VILLAS nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de R$ 40.770,09
+    - A Empresa EXCLUSIVE nos meses de Janeiro a Julho de 2025, deixou de aproveitar um valor de crédito de ICMS no total de R$ 149.170,55
 
-    ➡️ Se o crédito fosse aproveitado, o aumento da carga tributária seria R$ xxxxxxxxxx menor, refletindo diretamente margem de lucro.
+    ➡️ Se todos os crédito forem aproveitados, o aumento da carga tributária seria menor nas empresas Villas e Exclusive.
 
-    Por outro lado as empresas listadas a baixo enfrentarão um aumento consideravel com a mudança devido ao aproveitamento dos créditos de ICMS ser menor que os débitos.
+    Por outro lado as empresas listadas a baixo enfrentarão um aumento consideravel com a mudança devido ao aproveitamento dos créditos de ICMS serem muito baixo.
+
+    Fiori
     
            
   DESTACAR QUAIS EMPRESAS TEM POUCO APROVEITAMENTO DE CREDITO: FIORI, JARDINS ACQUA PARK, SPLASH?           
